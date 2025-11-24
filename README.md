@@ -1,3 +1,3 @@
-# DesignProfissional_A1
-Repositório dedicado ao projeto de conclusão da disciplina de Design Profissional, ministrada pela Professora Kadidja.
-
+LINK PARA O REPOSITÓRIO DE DESENVOLVIMENTO FRONT-END: https://github.com/Kayla-Gama/Projeto-Final-Gleidson.git
+LINK PARA O REPOSITÓRIO DE BANCO DE DADOS: https://github.com/Kayla-Gama/Banco_de_Dados.git
+LINK PARA O REPOSITÓRIO DE PENSAMENTO COMPUTACIONAL: https://github.com/Kayla-Gama/Algoritmos_e_Pensamento_Computacional.git
